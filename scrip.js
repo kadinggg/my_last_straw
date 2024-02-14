@@ -1,31 +1,31 @@
 
 document.getElementById('yesbutton').addEventListener('click', function() {
-    document.getElementById('monitor').src ='./img/really2.gif'
+    document.getElementById('monitor').src ='.img/really2.gif'
     document.querySelector('h1').innerHTML ='REALLLYYYY??? '
     document.getElementById('yesbutton').addEventListener('click', function() {
-        document.getElementById('monitor').src ='./img/yes.gif'
+        document.getElementById('monitor').src ='.img/yes.gif'
         document.querySelector('h1').innerHTML ='WAHHHHHHH!!!!'
         document.getElementById('yesbutton').addEventListener('click', function() {
-            document.getElementById('monitor').src ='./img/wah.gif'
+            document.getElementById('monitor').src ='.img/wah.gif'
             document.querySelector('h1').innerHTML ='LOVE U TOO <3'
             document.getElementById('yesbutton').addEventListener('click', function() {
-                document.getElementById('monitor').src ='./img/last.gif'
+                document.getElementById('monitor').src ='.img/last.gif'
                 document.querySelector('h1').innerHTML ='I REALLYYY DOOOO<br> ૮ ˶ᵔ ᵕ ᵔ˶ ა'
             })
         })
     })
 })
 document.getElementById('nobutton').addEventListener('click', function() {
-    document.getElementById('monitor').src ='./img/gg12.png'
+    document.getElementById('monitor').src ='.img/gg12.png'
     document.querySelector('h1').innerHTML ='GURLLLLLLL'
     document.getElementById('nobutton').addEventListener('click', function() {
-        document.getElementById('monitor').src ='./img/hmph-mad.gif'
+        document.getElementById('monitor').src ='.img/hmph-mad.gif'
         document.querySelector('h1').innerHTML ='PLSSSSSSSS'
         document.getElementById('nobutton').addEventListener('click', function() {
-            document.getElementById('monitor').src ='./img/no.gif'
+            document.getElementById('monitor').src ='.img/no.gif'
             document.querySelector('h1').innerHTML ='🙄🙄🙄🙄🙄'
             document.getElementById('nobutton').addEventListener('click', function() {
-                document.getElementById('monitor').src ='./img/pout.gif'
+                document.getElementById('monitor').src ='.img/pout.gif'
                 document.querySelector('h1').innerHTML ='😡😡😡😡😡<br>CLICK YES BBGURLL!!!'
 
             
